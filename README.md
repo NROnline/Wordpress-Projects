@@ -1,2 +1,2 @@
-# Wordpress-Projects
-Repository for Wordpress projects - Templates - Modules - Components
+# Template - Projects
+Repository for Wordpress and Joomla based CMS projects - Templates
